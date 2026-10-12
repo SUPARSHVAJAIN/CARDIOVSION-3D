@@ -1,0 +1,6 @@
+{
+  "name": "CardioVision 3D - Cardiovascular Risk & CAD Visualizer",
+  "description": "Interactive 3D anatomical visualization system predicting coronary artery disease (CAD) and cardiac risk from patient physiological and clinical data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
